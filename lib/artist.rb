@@ -1,7 +1,7 @@
 class Artist 
   attr_accessor :artist
  
-  def name(artist)
-    @artist = artist
+  def artist(name)
+    @artist = name
   end
 end
